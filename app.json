@@ -3,7 +3,7 @@
   "description": "قنــآة ردثــون آلعــرب @HBBCE",
   "logo": "https://telegra.ph/file/67d31c56d46e94aef4277.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
-  "repository": "https://github.com/rify39/Source-Redthon-Arab",
+  "repository": "https://github.com/rify39/Source-Redthon-Arab.git",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
